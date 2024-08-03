@@ -1,0 +1,27 @@
+#app {
+  margin: 20px 20px 0 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
