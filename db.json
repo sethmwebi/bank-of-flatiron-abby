@@ -99,18 +99,25 @@
       "id": "14"
     },
     {
-      "id": 15,
+      "id": "15",
       "date": "2024-08-03",
       "description": "mbappe",
       "category": "football",
       "amount": 23233
     },
     {
-      "id": 16,
+      "id": "16",
       "date": "2024-08-03",
       "description": "Hakimi",
       "category": "football",
       "amount": 21313154
+    },
+    {
+      "id": 17,
+      "date": "2024-08-05",
+      "description": "joojjoij",
+      "category": "",
+      "amount": 0
     }
   ]
 }
